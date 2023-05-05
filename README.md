@@ -1,4 +1,4 @@
-# Data-Warehouse-Pipeline > WideWorldImporters
+# [POC] > Data-Warehouse > WideWorldImporters
 
 
 # Introduction
