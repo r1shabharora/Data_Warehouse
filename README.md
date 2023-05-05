@@ -19,7 +19,15 @@ Wide World Importers (WWI) is a wholesale novelty goods importer and distributor
 #Designed Schema for the Warehouse
 
 #Dimensions
+ 1. Supplier_Dim
+ 3. Warehouse_Dim
+ 4. Product_Dim
+ 5. ProductCategory_Dim
+
+
 #Fact Tables
+1. EmployeeCustomer_Fact
+2. Warehouse_Fact
 
 
 # SQL Implementation
@@ -27,9 +35,18 @@ Wide World Importers (WWI) is a wholesale novelty goods importer and distributor
 # Data insights
 
 
+
+
+
 # Tableau 
 
 
 # SSRS Reports
+4 BI reports were created using SSRS.
+Reports were targeted to provide insights to stakeholders such as terriroty planners, VPs, Sales Managers, etc.
+Another goal of BI reporting was to have an effective way to get new orders, a product catalogue report was developed that lists down all the order related information such as Product name, weight, Minimum order quanity, Price, etc.
+
+
+
 
 
