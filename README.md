@@ -39,7 +39,7 @@ Wide World Importers (WWI) is a wholesale novelty goods importer and distributor
 
 
 # Tableau 
-The tableaau dashboard with its captivating visualizations and interactivity
+The tableaau dashboard with its captivating visualizations and interactivity, uncovers a compelling story of Products, Suppliers, Categories, Employees, Customers, Transactions, and Sales.
 
 
 
